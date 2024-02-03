@@ -1,0 +1,17 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Local Machine": [
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\main",
+    "\\main\\scenes",
+    "\\main\\scenes\\include",
+    "\\main\\scenes\\src"
+  ],
+  "SelectedNode": "\\main\\scenes\\src\\hello_triangle_vbo.cpp",
+  "PreviewInSolutionExplorer": false
+}
